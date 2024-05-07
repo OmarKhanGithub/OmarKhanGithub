@@ -1,7 +1,7 @@
-Hi! My name is Stefan Topalović 😄
+Hi! My name is Omar Khan 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
+🌍  I am a Full Stack Developer, Java Developer, and Data Scientist based in Toronto, CANADA.
 <br/>
 
 ### Skills
@@ -12,7 +12,7 @@ Hi! My name is Stefan Topalović 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+  <a href="https://www.linkedin.com/in/omar-khan-bb7306121/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
