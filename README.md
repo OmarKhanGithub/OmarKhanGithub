@@ -1,15 +1,14 @@
 Hi! My name is ...
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Alejandro-Ramirez+Khan;Full+Stack+Web+and+Desktop+Developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Alejandro-Ramirez+Khan;Full+Stack+Web+and+Desktop+Developer;Based+in+Toronto,CANADA&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
-================================================================================================================================================================================
 
 🌍  I am a Full Stack Developer, Java Developer and Researcher based in Toronto, CANADA.
 <br/>
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
 ### Socials
