@@ -2,7 +2,7 @@ Hi! My name is ...
 <h3 align="center"><a href="https://hud0shnik.github.io/">
    <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Alejandro-Ramirez+Khan;Full+Stack+Web+and+Desktop+Developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
-========================================================================================================================================
+================================================================================================================================================================================
 
 🌍  I am a Full Stack Developer, Java Developer and Researcher based in Toronto, CANADA.
 <br/>
