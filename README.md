@@ -18,7 +18,7 @@ Hi! My name is ...
 
 ### Languages and Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKhanGithub&theme=great-gatsby"/> <p>  </p>[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarKhanGithub&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKhanGithub&theme=great-gatsby&layout=donut"/> [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarKhanGithub&show_icons=true&theme=great-gatsby&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
