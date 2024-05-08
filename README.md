@@ -1,6 +1,6 @@
 Hi! My name is ...
 <h3 ><a href="https://hud0shnik.github.io/">
-   <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Alejandro-Ramirez+Khan;Full+Stack+Web+and+Desktop+Developer;Based+in+Toronto,CANADA&font=Fira%20Code&width=440&height=45&color=68C3D4&size=21"></a>
+   <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Alejandro-Ortega-Ramirez+Khan;Lead+Engineer+in+Software+and+Sanitation;At+RapidRecruiter+LTD.;Based+in+Toronto%2C+CANADA&font=Fira%20Code&width=440&height=45&color=F7F7F7FF&size=21"></a>
 </h3>
 
 ### Skills
