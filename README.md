@@ -1,4 +1,4 @@
-Hi! My name is Omar Khan 😄
+Hi! My name is Omar Alejandro Khan 😄
 ========================================================================================================================================
 
 🌍  I am a Full Stack Developer, Java Developer, and Data Scientist based in Toronto, CANADA.
