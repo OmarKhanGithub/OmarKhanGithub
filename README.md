@@ -1,6 +1,6 @@
 Hi! My name is ...
 <h3 ><a href="https://hud0shnik.github.io/">
-   <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Khan%2C+Welcome+to+my+Github+page.;I+am+a+Lead+Software+Engineer+at+RapidRecruiter+LTD.;Based+in+Toronto+and+Halifax%2C+CANADA&font=Fira%20Code&duration=5000&pause=1000&width=700&height=45&color=F7F7F7FF&size=21"></a>
+   <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Khan%2C+Welcome+to+my+Github+page!;I+am+a+Lead+Software+Engineer+at+RapidRecruiter+LTD.;Based+in+Toronto+and+Halifax%2C+CANADA&font=Fira%20Code&duration=5000&pause=1000&width=700&height=45&color=F7F7F7FF&size=21"></a>
 </h3>
 
 ### Skills
