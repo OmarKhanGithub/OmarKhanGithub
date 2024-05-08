@@ -1,10 +1,7 @@
 Hi! My name is ...
-<h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Alejandro-Ramirez+Khan;Full+Stack+Web+and+Desktop+Developer;Based+in+Toronto,CANADA&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+<h3 ><a href="https://hud0shnik.github.io/">
+   <img alt="Omar Alejandro-Ramirez Khan 😄" src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Alejandro-Ramirez+Khan;Full+Stack+Web+and+Desktop+Developer;Based+in+Toronto,CANADA&font=Fira%20Code&width=440&height=45&color=68C3D4&size=21"></a>
 </h3>
-
-🌍  I am a Full Stack Developer, Java Developer and Researcher based in Toronto, CANADA.
-<br/>
 
 ### Skills
 
@@ -19,13 +16,11 @@ Hi! My name is ...
   </a>
 </div>
 
-### Statistics
+### Languages and Statistics
 
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarKhanGithub&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKhanGithub&theme=great-gatsby"/> <p>  </p>[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarKhanGithub&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKhanGithub"/>
 <!--
 **OmarKhanGithub/OmarKhanGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
